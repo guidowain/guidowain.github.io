@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 published: true
 ---
-### Hola holitas!
+# Hola holitas!
 
 ## Todo bien?
 
